@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/frozenliquidstudios/updated_ratebeer.png)](https://travis-ci.org/frozenliquidstudios/updated_ratebeer)
+[![Build Status](https://travis-ci.org/frozenliquidstudios/updated_ratebeer.svg?branch=master)](https://travis-ci.org/frozenliquidstudios/updated_ratebeer)
