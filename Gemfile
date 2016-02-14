@@ -9,6 +9,14 @@ group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem "better_errors"
+  gem 'rspec-rails', '~> 3.0'
+end
+
+group :test do
+  gem 'factory_girl_rails'
+  gem 'capybara'
+  gem 'launchy'
+  gem 'simplecov', require: false
 end
 
 group :production do
